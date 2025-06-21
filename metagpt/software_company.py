@@ -48,7 +48,7 @@ def generate_repo(
                 ProductManager(),
                 Architect(),
                 Engineer2(),
-                # ProjectManager(),
+                ProjectManager(),
                 DataAnalyst(),
             ]
         )
